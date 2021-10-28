@@ -1,9 +1,9 @@
 <?php
-	define('ROOT_URL', 'http://localhost/legendary-garbanzo/logApp-scaling-octo-rubyjets/index.php');
-	define('DB_HOST', '127.0.0.1:3325');
-	define('DB_USER', 'root');
-	define('DB_PASS', '');
-	define('DB_NAME', 'user');
+	define('ROOT_URL', 'index.php');
+	define('DB_HOST', 'sql6.freesqldatabase.com');
+	define('DB_USER', 'sql6447466');
+	define('DB_PASS', 'pjRzDn8Jv9');
+	define('DB_NAME', 'sql6447466');
 
 
 ?>

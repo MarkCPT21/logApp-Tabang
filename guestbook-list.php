@@ -2,7 +2,7 @@
 	require('config/config.php');
 	require('config/db.php');
     // create query
-    $query = 'SELECT * FROM person';
+    $query = 'SELECT * FROM PERSON';
 
     // Get result
     $result = mysqli_query($conn, $query);
